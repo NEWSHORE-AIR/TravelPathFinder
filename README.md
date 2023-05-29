@@ -17,3 +17,8 @@ El alcance de este proyecto es desarrollar una solución web para conectar viaje
 5. Selección de moneda: Este requisito se cumple con el problema 5, donde se menciona que el usuario debe tener la posibilidad de seleccionar la moneda en la que desea ver los valores de los vuelos y convertir los precios correspondientemente.
 6. Validación de campos: Este requisito se cumple con el problema 4, donde se menciona que los campos de origen y destino deben cumplir con reglas específicas, como la longitud de caracteres y el formato adecuado.
 funcionamiento.
+
+## Acceso
+### API
+[Busqueda de rutas](https://travelpathfinderapi.azurewebsites.net/api/Journey/calculate-routes?origin=MZL&destination=BOG)
+
