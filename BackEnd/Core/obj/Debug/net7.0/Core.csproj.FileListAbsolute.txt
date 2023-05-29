@@ -1,0 +1,15 @@
+E:\TravelPathFinder.App\BackEnd\Core\bin\Debug\net7.0\Core.deps.json
+E:\TravelPathFinder.App\BackEnd\Core\bin\Debug\net7.0\Core.dll
+E:\TravelPathFinder.App\BackEnd\Core\bin\Debug\net7.0\Core.pdb
+E:\TravelPathFinder.App\BackEnd\Core\bin\Debug\net7.0\Services.dll
+E:\TravelPathFinder.App\BackEnd\Core\bin\Debug\net7.0\Services.pdb
+E:\TravelPathFinder.App\BackEnd\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+E:\TravelPathFinder.App\BackEnd\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\TravelPathFinder.App\BackEnd\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+E:\TravelPathFinder.App\BackEnd\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+E:\TravelPathFinder.App\BackEnd\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+E:\TravelPathFinder.App\BackEnd\Core\obj\Debug\net7.0\Core.csproj.CopyComplete
+E:\TravelPathFinder.App\BackEnd\Core\obj\Debug\net7.0\Core.dll
+E:\TravelPathFinder.App\BackEnd\Core\obj\Debug\net7.0\refint\Core.dll
+E:\TravelPathFinder.App\BackEnd\Core\obj\Debug\net7.0\Core.pdb
+E:\TravelPathFinder.App\BackEnd\Core\obj\Debug\net7.0\ref\Core.dll
