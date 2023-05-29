@@ -28,31 +28,57 @@ La falta de implementación del problema 5, asi como de algunas de las condicion
 La arquitectura que plantee para la solución es Clean Arquitecture y capas, la siguiente es la estructura general de esta arquitectura
 
 ├───BackEnd
+
 │   ├───Core   
+
 │   │   │       
+
 │   │   ├───Domain
+
 │   │   │   ├───Entities
+
 │   │   │   ├───Exceptions
+
 │   │   │   └───Handlers
+
 │   │   ├───Mappings
+
 │   │   ├───Repositories
+
 │   │   └───Services
+
 │   ├───Infrastructure
+
 │   │   ├───API
+
 │   │   │   ├───.vscode
+
 │   │   │   ├───Controllers
+
 │   │   │   └───Properties
+
 │   │   └───Services
+
 │   │       ├───Clients
+
 │   │       ├───DTOs
+
 │   │       ├───Exceptions
+
 │   └───Tests
+
 └───FrontEnd
+
     ├───BlazorApp
+    
     │   ├───Pages
+    
     │   ├───Properties
+    
     │   ├───Shared
+    
     │   └───wwwroot
+    
     └───ConsoleApp
     
 #### BackEnd: 
