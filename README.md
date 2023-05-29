@@ -69,15 +69,15 @@ La arquitectura que plantee para la solución es Clean Arquitecture y capas, la 
 
 └───FrontEnd
 
-    ├───BlazorApp
+│   ├───BlazorApp
     
-    │   ├───Pages
+│    │   ├───Pages
     
-    │   ├───Properties
+│    │   ├───Properties
     
-    │   ├───Shared
+│   │   ├───Shared
     
-    │   └───wwwroot
+│   │   └───wwwroot
     
     └───ConsoleApp
     
@@ -114,5 +114,5 @@ Este directorio contiene todo el código y los componentes relacionados con la p
 [Busqueda de rutas](https://travelpathfinderapi.azurewebsites.net/api/Journey/calculate-routes?origin=MZL&destination=BOG)
 ### App
 
-[Busqueda de rutas](https://journeyroute.azurewebsites.net/)
+[FrontEnd](https://journeyroute.azurewebsites.net/)
 
