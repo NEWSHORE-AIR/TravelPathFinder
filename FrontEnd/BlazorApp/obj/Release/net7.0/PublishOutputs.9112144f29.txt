@@ -1,0 +1,7 @@
+E:\TravelPathFinder.App\FrontEnd\BlazorApp\bin\Publish\BlazorApp.exe
+E:\TravelPathFinder.App\FrontEnd\BlazorApp\bin\Publish\appsettings.Development.json
+E:\TravelPathFinder.App\FrontEnd\BlazorApp\bin\Publish\appsettings.json
+E:\TravelPathFinder.App\FrontEnd\BlazorApp\bin\Publish\BlazorApp.dll
+E:\TravelPathFinder.App\FrontEnd\BlazorApp\bin\Publish\BlazorApp.deps.json
+E:\TravelPathFinder.App\FrontEnd\BlazorApp\bin\Publish\BlazorApp.runtimeconfig.json
+E:\TravelPathFinder.App\FrontEnd\BlazorApp\bin\Publish\BlazorApp.pdb

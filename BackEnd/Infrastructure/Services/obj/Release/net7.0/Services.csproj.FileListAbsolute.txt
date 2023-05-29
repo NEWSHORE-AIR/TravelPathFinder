@@ -1,0 +1,12 @@
+E:\TravelPathFinder.App\BackEnd\Infrastructure\Services\bin\Release\net7.0\Services.deps.json
+E:\TravelPathFinder.App\BackEnd\Infrastructure\Services\bin\Release\net7.0\Services.dll
+E:\TravelPathFinder.App\BackEnd\Infrastructure\Services\bin\Release\net7.0\Services.pdb
+E:\TravelPathFinder.App\BackEnd\Infrastructure\Services\obj\Release\net7.0\Services.csproj.AssemblyReference.cache
+E:\TravelPathFinder.App\BackEnd\Infrastructure\Services\obj\Release\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\TravelPathFinder.App\BackEnd\Infrastructure\Services\obj\Release\net7.0\Services.AssemblyInfoInputs.cache
+E:\TravelPathFinder.App\BackEnd\Infrastructure\Services\obj\Release\net7.0\Services.AssemblyInfo.cs
+E:\TravelPathFinder.App\BackEnd\Infrastructure\Services\obj\Release\net7.0\Services.csproj.CoreCompileInputs.cache
+E:\TravelPathFinder.App\BackEnd\Infrastructure\Services\obj\Release\net7.0\Services.dll
+E:\TravelPathFinder.App\BackEnd\Infrastructure\Services\obj\Release\net7.0\refint\Services.dll
+E:\TravelPathFinder.App\BackEnd\Infrastructure\Services\obj\Release\net7.0\Services.pdb
+E:\TravelPathFinder.App\BackEnd\Infrastructure\Services\obj\Release\net7.0\ref\Services.dll

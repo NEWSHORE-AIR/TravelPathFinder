@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c6d13eb0-e987-4d1a-b5ce-b2e2634c2d93/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/TravelPathFinderApp",
+    "appService.deploySubpath": "bin\\Publish"
+}

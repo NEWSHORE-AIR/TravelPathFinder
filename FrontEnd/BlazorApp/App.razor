@@ -1,0 +1,21 @@
+﻿
+<Router AppAssembly="@typeof(App).Assembly">
+    <Found Context="routeData">
+        <RouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)" />
+        <FocusOnNavigate RouteData="@routeData" Selector="h1" />
+    </Found>
+    <NotFound>
+        <PageTitle>Not found</PageTitle>
+        <LayoutView Layout="@typeof(MainLayout)">
+            <div class="text-center">
+                <h1 class="display-4">Aplicación Presentada por Oscar Franco Bedoya</h1>
+                <p class="lead">Bienvenido a mi proyecto de prueba.</p>
+                <p>Esta aplicación fue desarrollada como parte de una evaluación para demostrar mis habilidades en el desarrollo fullstack.</p>
+                <p>Ha sido construida utilizando las mejores prácticas y tecnologías actuales.</p>
+                <p>Espero que disfrutes explorando la funcionalidad de la aplicación.</p>
+                <p>Si tienes alguna pregunta o comentario, no dudes en contactarme.</p>
+                <p>¡Gracias por tu tiempo y consideración!</p>
+            </div>
+        </LayoutView>
+    </NotFound>
+</Router>
