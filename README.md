@@ -28,30 +28,55 @@ La falta de implementación del problema 5, asi como de algunas de las condicion
 La arquitectura que plantee para la solución es Clean Arquitecture y capas, la siguiente es la estructura general de esta arquitectura
 
 ├───BackEnd
+
 │   ├───Core   
+
 │   │   │       
+
 │   │   ├───Domain
+
 │   │   │   ├───Entities
+
 │   │   │   ├───Exceptions
+
 │   │   │   └───Handlers
+
 │   │   ├───Mappings
+
 │   │   ├───Repositories
+
 │   │   └───Services
+
 │   ├───Infrastructure
+
 │   │   ├───API
+
 │   │   │   ├───.vscode
+
 │   │   │   ├───Controllers
+
 │   │   │   └───Properties
+
 │   │   └───Services
+
 │   │       ├───Clients
+
 │   │       ├───DTOs
+
 │   │       ├───Exceptions
+
 │   └───Tests
+
 └───FrontEnd
+
     ├───BlazorApp
+    
     │   ├───Pages
+    
     │   ├───Properties
+    
     │   ├───Shared
+    
     │   └───wwwroot
     └───ConsoleApp
     
@@ -88,5 +113,5 @@ Este directorio contiene todo el código y los componentes relacionados con la p
 [Busqueda de rutas](https://travelpathfinderapi.azurewebsites.net/api/Journey/calculate-routes?origin=MZL&destination=BOG)
 ### App
 
-[Busqueda de rutas](https://journeyroute.azurewebsites.net/)
+[FrontEnd](https://journeyroute.azurewebsites.net/)
 
